@@ -1,4 +1,4 @@
-Hi there, I’m Ryan, 👋
+Hi there, I’m Ryan 👋
 
 Hobbyist coder and tinkerer.
 
